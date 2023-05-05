@@ -1,0 +1,10 @@
+Cadeira
+Azul
+Bola
+Gato
+Mesa
+Livro
+Flor
+Cachorro
+Sol
+Lua
